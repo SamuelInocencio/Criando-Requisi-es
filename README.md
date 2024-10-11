@@ -1,6 +1,6 @@
 Segue deploy do projeto: https://criando-requisi-es.vercel.app/
 
-*Necessário fazer um servidor para fazer a leitura do arquiivo Json
+*Necessário fazer um servidor local para fazer a leitura do arquiivo Json
 
 <p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
 
